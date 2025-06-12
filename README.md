@@ -1,2 +1,2 @@
 # McDonnell-Douglas-Alarms
-These files are to replace some of the Alarms in Nemanja Avramovic's GeoFS GPWS Alarms addon.
+Half credit to him for the main addon, other half to me for the edit.
