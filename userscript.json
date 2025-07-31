@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GeoFS GPWS Alerts
 // @namespace    https://avramovic.info/
-// @version      1.2
+// @version      1.21
 // @description  GPWS and other alerts for GeoFS
 // @author       Nemanja Avramovic and Ilhan Absar
 // @match        https://www.geo-fs.com/geofs.php*
@@ -14,7 +14,7 @@
 // @resource     terrain https://github.com/avramovic/geofs-alerts/raw/master/audio/terrain-terrain-pull-up.mp3
 // @resource     lowgear https://github.com/avramovic/geofs-alerts/raw/master/audio/too-low-gear.mp3
 // @resource     lowflaps https://github.com/avramovic/geofs-alerts/raw/master/audio/too-low-flaps.mp3
-// @resource     sinkrate https://github.com/avramovic/geofs-alerts/raw/master/audio/sink-rate.mp3
+// @resource     sinkrate https://github.com/ISA1716/McDonnell-Douglas-Alarms/blob/main/Pull%20Up.mp3#:~:text=Raw-,View%20raw,-McDonnell%2DDouglas%2DAlarms
 // @resource     h2500 https://github.com/ISA1716/McDonnell-Douglas-Alarms/raw/refs/heads/main/-2500.mp3
 // @resource     h1000 https://github.com/ISA1716/McDonnell-Douglas-Alarms/raw/refs/heads/main/-1000.mp3
 // @resource     h100 https://github.com/ISA1716/McDonnell-Douglas-Alarms/raw/refs/heads/main/-100.mp3
