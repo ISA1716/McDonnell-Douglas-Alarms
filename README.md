@@ -3,3 +3,7 @@ Half credit to him for the main addon, other half to me for the edit. To use the
 Will be updated if needed, if it doesn't work, please mention in the 'Issues' tab in the repository.
 
 Just mentioning, I switched the Sink Rate alarm with a Pull Up alarm because it only seems to go off when you're pitched down and near the ground.
+
+Known Issues:
+
+-When in use, the addon removes the sky from the flight sim (to be honest, that's why I haven't used this addon for the past 2 months)
