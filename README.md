@@ -6,4 +6,4 @@ Just mentioning, I switched the Sink Rate alarm with a Pull Up alarm because it 
 
 Known Issues:
 
--When in use, the addon removes the sky from the flight sim (to be honest, that's why I haven't used this addon for the past 2 months)
+
