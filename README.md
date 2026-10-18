@@ -4,6 +4,6 @@ Will be updated if needed, if it doesn't work, please mention in the 'Issues' ta
 
 Just mentioning, I switched the Sink Rate alarm with a Pull Up alarm because it only seems to go off when you're pitched down and near the ground.
 
-Known Issues:
+Known Issues: none so far
 
 
